@@ -11,6 +11,6 @@ setuptools.setup(
     description="Python package for the RearthServer",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Nemupy/pymelo",
+    url="https://github.com/Nemupy/rearth",
     packages=setuptools.find_packages()
 )

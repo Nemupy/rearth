@@ -1,4 +1,4 @@
-# reart
+# rearth
 
 # Install
 Python 3 or higher is required.    

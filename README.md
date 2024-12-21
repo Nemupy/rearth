@@ -1,4 +1,5 @@
 # rearth
+（注）マップの仕様が変わったようなので、現在使用できません
 
 # Install
 Python 3 or higher is required.    
